@@ -1,0 +1,38 @@
+.team-mebmer {
+  padding: 50px 16px 25px 16px;
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+}
+
+.profiles {
+  max-width: 100%;
+  overflow: hidden;
+  background: #ffffff;
+  overflow-x: scroll;
+  display: flex;
+  margin: 0 auto;
+  gap: 15px;
+}
+
+/* .profile {
+  display: flex;
+  flex-direction: column;
+}
+
+.profile__img-section {
+}
+.profile__description {
+  padding: 24px 54px 15px 53px;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  text-align: center;
+}
+
+.profile__description h4 {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 123.6%;
+  color: black;
+} */

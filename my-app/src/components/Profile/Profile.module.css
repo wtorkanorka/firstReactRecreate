@@ -1,0 +1,19 @@
+.profile {
+  display: flex;
+  flex-direction: column;
+}
+
+.profile__description {
+  padding: 24px 54px 15px 53px;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  text-align: center;
+}
+
+.profile__description h4 {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 123.6%;
+  color: black;
+}

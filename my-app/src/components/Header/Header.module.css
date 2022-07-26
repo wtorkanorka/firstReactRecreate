@@ -1,0 +1,39 @@
+.mobile-header {
+  display: flex;
+  justify-content: space-between;
+  padding: 0 24px;
+  align-items: center;
+}
+
+.mobile-header > * {
+  flex: 1;
+}
+
+.theme,
+.menu {
+  display: flex;
+}
+
+.theme {
+  justify-content: center;
+}
+
+.header-button {
+  all: unset;
+  cursor: pointer;
+  width: 24px;
+  height: 24px;
+}
+
+.theme .header-button {
+  padding: 13px;
+}
+
+.menu .header-button {
+  padding-right: 0px;
+  padding: 13px;
+}
+
+.menu {
+  justify-content: flex-end;
+}

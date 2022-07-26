@@ -1,0 +1,60 @@
+{
+  "about_us": [
+    {
+      "icon": "/icons/icon-file.svg",
+      "color": "#FF5300",
+      "title": "World leader in consulting and finance"
+    },
+    {
+      "icon": "/icons/more-less.svg",
+      "color": "#7B7B7B",
+      "title": "A focused team with a specialized skill"
+    },
+    {
+      "icon": "/icons/gear.svg",
+      "color": "#00ACFF",
+      "title": "Trusted and professional advisors for you"
+    },
+    {
+      "icon": "/icons/share-box-line.svg",
+      "color": "#373737",
+      "title": "Experience to give you a better results"
+    }
+  ],
+  "team_mebmer_content": [
+    {
+      "profileImg": "/images/Gustavo.png",
+      "name": "Gustavo Herwitz",
+      "job": "UI/UX Designer"
+    },
+    {
+      "profileImg": "/images/abram.png",
+      "name": "Phillip Curtis",
+      "job": "Graphic Designer"
+    },
+    {
+      "profileImg": "/images/phillip.png",
+      "name": "Talan Torff",
+      "job": "Web Developer"
+    },
+    {
+      "profileImg": "/images/talan.png",
+      "name": "Abram Vaccaro",
+      "job": "App Developer"
+    }
+  ],
+  "clients_feedback": [
+    {
+      "photo": "/images/justin.jpg",
+      "name": "Justin Septimus",
+      "job": "CEO,word yt",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sit a laoreet libero dis eget maecenas bibendum. Morbi lacinia eu, etiam volutpat morbi et amet, sagittis adipiscing. "
+    },
+    {
+      "photo": "/images/ashlynn.jpg",
+      "name": "Ashlynn Gouse",
+      "job": "Managing Director",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sit a laoreet libero dis eget maecenas bibendum. Morbi lacinia eu, etiam volutpat morbi et amet, sagittis adipiscing. "
+    }
+  ]
+}
