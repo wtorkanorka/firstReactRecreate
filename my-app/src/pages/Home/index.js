@@ -20,10 +20,10 @@ export function Home() {
     <>
       <Header />
       <Hero />
-      {/* <AboutUs />
+      <AboutUs />
       <OurExpereince />
       <TeamMember />
-      <OurWork /> */}
+      <OurWork />
     </>
   )
 }
