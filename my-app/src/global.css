@@ -23,3 +23,13 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+:root {
+  --orange: #ff5300;
+  --orange-background: #fff7f4;
+  --black: #373737;
+  --dark-background: #18191a;
+  --dark-1: #242526;
+  --dark-2: #3a3b3c;
+  --grey: #7b7b7b;
+}
